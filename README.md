@@ -1,4 +1,4 @@
-Moon Light
+Moon Light!
 Moon Light is a parallax scrolling website created using vanilla JavaScript. This project showcases a visually appealing design with parallax effects, providing an immersive and engaging user experience.
 
 Features
